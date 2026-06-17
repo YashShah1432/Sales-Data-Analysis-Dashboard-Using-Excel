@@ -1,42 +1,39 @@
-# Vrinda-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
+# Sales Data Analysis Dashboard Using Excel (Interactive Dashboard Creation Using MS Excel)
+
 ## Project Objective
-The Vrinda Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023 & 2024.
+The objective of this project is to create an annual sales report for 2022. This dashboard helps analyze customer behavior, sales performance, order trends, and business insights to support data-driven decision-making and improve sales growth in future years.
 
-## Dataset used
-<a href="https://github.com/YashShah1432/Sales-Data-Analysis-Dashboard-Using-Excel/blob/main/Retail%20Sales%20Performance%20Analysis%20Dashboard.xlsx">Dataset</a>
+## Dataset Used
+- <a href="https://github.com/YashShah1432/Sales-Data-Analysis-Dashboard-Using-Excel/blob/main/Retail%20Sales%20Performance%20Analysis%20Dashboard.xlsx">Dataset</a>
+
 ## Questions (KPIs)
-- Compare the sales and orders using single chart.
-
+- Compare the sales and orders using a single chart.
 - Which month got the highest sales and orders?
-
 - Who purchased more - Men or Women?
-
-- What are different order status in 2022?
-
-- List top 10 states contributingto the sales?
-
-- Relation between age and gender based on number of orders.
-
-- Which Channel is contributing maximum to the sales?
-
-- Percentage of Total Orders delivered
-
-- Dashboard Interaction View Dashboard
+- What are the different order statuses in 2022?
+- List the top 10 states contributing to sales.
+- What is the relationship between age and gender based on the number of orders?
+- Which channel is contributing the maximum sales?
+- What percentage of total orders were delivered?
+- Dashboard Interaction <a href="https://github.com/YashShah1432/Sales-Data-Analysis-Dashboard-Using-Excel/blob/main/Retail_Sales_Dashboard.png">View Dashboard</a>
 
 ## Process
-Verify data for any missing values and anomalies, and sort out the same.
-Made sure data is consistent and clean with respect to data type, data format and values used.
-Created pivot tables according to the questions asked.
-Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+- Verified data for missing values and anomalies and handled them appropriately.
+- Ensured data consistency and cleanliness with respect to data types, formats, and values.
+- Created pivot tables according to the business questions.
+- Merged all pivot tables into a single interactive dashboard.
+- Applied slicers to enable dynamic filtering and analysis.
+
 ## Dashboard
-<img width="1836" height="810" alt="Retail_Sales_Dashboard" src="https://github.com/user-attachments/assets/6eb3f18b-5423-475e-8993-e54f69735df9" />
 
+![Retail Sales Dashboard](https://raw.githubusercontent.com/YashShah1432/Sales-Data-Analysis-Dashboard-Using-Excel/main/Retail_Sales_Dashboard.png)
 
-## Project Insight
-Women customers are more likely to buy products compared to men (~65%).
-The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
-The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
-The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
-More than 90% of the products delivered
-## Final Conclusion:
-To improve the sales of Vrinda Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
+## Project Insights
+- Women customers are more likely to buy products compared to men (~65%).
+- Maharashtra, Karnataka, and Uttar Pradesh are the top three states contributing to sales.
+- The adult age group (30–49 years) contributes the highest share of orders (~50%).
+- Amazon, Flipkart, and Myntra are the leading sales channels.
+- More than 90% of orders were successfully delivered.
+
+## Final Conclusion
+To improve sales performance, a strategic marketing plan should focus on women aged 30–49 years residing in Maharashtra, Karnataka, and Uttar Pradesh. This customer segment represents the highest purchasing group and offers significant growth opportunities. Targeted digital marketing campaigns, personalized offers, and channel-specific promotions through Amazon, Flipkart, and Myntra can help increase customer engagement and drive higher sales.
